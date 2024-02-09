@@ -6,7 +6,7 @@
 
 💼 LinkedIn: [linkedin.com/in/leonardobuckalves/](https://www.linkedin.com/in/leonardobuckalves)
 
-## Linguagens e tecnologias
+## Linguagens e Tecnologias
 
  <img src="https://skillicons.dev/icons?i=cs,js,html,css,git,github" />
 
